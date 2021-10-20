@@ -1,21 +1,19 @@
-    注册 WARP 账户 (将生成 wgcf-account.toml 文件保存账户信息)
+# 注册 WARP 账户 (将生成 wgcf-account.toml 文件保存账户信息)
 ```bash
     wgcf register
 ```
 
-    修改 wgcf-account.toml 文件 
+# 修改 wgcf-account.toml 文件 
 ```bash
     license_key = "V4L6C8XXXXXXXXXXXXXXXXX2hO6a71"
 ```
-# license_key  见 手机打开warp>设置>账号>按键
+: license_key见手机warp>设置>账号>按键
 
-    更新 wgcf-account.toml 文件 
+# 更新warp+账号信息,更新 wgcf-account.toml 文件 
 ```bash
     wgcf update
 ```
-# 更新warp+账号信息
-
-    生成 Wire­Guard 配置文件 (wgcf-profile.conf)
+# 生成 Wire­Guard 配置文件 (wgcf-profile.conf)
 ```bash
     wgcf generate
 ```
