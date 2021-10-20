@@ -1,5 +1,5 @@
     注册 WARP 账户 (将生成 wgcf-account.toml 文件保存账户信息)
-    ```bash
+    ```
     wgcf register
     ```
 
