@@ -1,9 +1,7 @@
-# wgcf
-> wgcf is an unofficial, cross-platform CLI for [Cloudflare Warp](https://1.1.1.1/)
-
     注册 WARP 账户 (将生成 wgcf-account.toml 文件保存账户信息)
-
+    ```bash
     wgcf register
+    ```
 
     修改 wgcf-account.toml 文件 
 
