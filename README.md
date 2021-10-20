@@ -1,3 +1,8 @@
+![](https://img.shields.io/drone/build/ViRb3/wgcf)
+![](https://img.shields.io/github/issues/ViRb3/wgcf)
+![](https://img.shields.io/github/downloads/ViRb3/wgcf/total)
+![](https://img.shields.io/github/languages/code-size/ViRb3/wgcf)
+
 ### 1:注册 WARP 账户 (将生成 wgcf-account.toml 文件保存账户信息)
 ```bash
     wgcf register
@@ -17,11 +22,6 @@
 ```bash
     wgcf generate
 ```
-![](https://img.shields.io/drone/build/ViRb3/wgcf)
-![](https://img.shields.io/github/issues/ViRb3/wgcf)
-![](https://img.shields.io/github/downloads/ViRb3/wgcf/total)
-![](https://img.shields.io/github/languages/code-size/ViRb3/wgcf)
-
 ## Features
 - Register new account
 - Change license key to use existing Warp+ subscription
